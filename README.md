@@ -70,3 +70,14 @@ Validator: https://validator.w3.org/nu/
 
 Author
 Created for the DigiHub HTML Images and Media Assignment.
+
+
+## Live Website
+
+View my completed DigiHub Images and Media assignment:
+
+https://favi-oj.github.io/digihub-images-media/
+
+## GitHub Repository
+
+https://github.com/favi-oj/digihub-images-media/
