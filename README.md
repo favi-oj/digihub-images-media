@@ -1,10 +1,10 @@
-DigiHub Images and Media Assignment
+# DigiHub Images and Media Assignment
 
-Project Description
+# Project Description
 
 This project is a personal profile webpage created using HTML5. It demonstrates the correct use of images, alternative text, figures, captions, native audio, and native video.
 
-Features
+# Features
 
 * A profile image with meaningful alternative text.
 * A decorative image with an empty alt attribute.
@@ -13,9 +13,9 @@ Features
 * An HTML5 video player with controls, a source element, and fallback text.
 * Explicit width and height attributes on content images where appropriate.
 
-Research Questions and Answers
+# Research Questions and Answers
 
-Question 1: Why is <img src="developer.jpg"> incomplete for a meaningful image?
+# Question 1: Why is <img src="developer.jpg"> incomplete for a meaningful image?
 
 The code is incomplete because it does not include an alt attribute. Meaningful images need alternative text that communicates their important content or purpose. This helps people using screen readers and provides information when an image cannot be displayed.
 
@@ -23,7 +23,7 @@ Example:
 
 <img src="developer.jpg" alt="Web developer writing HTML code on a laptop" width="600" height="400">
 
-Question 2: Why is alt="image" usually poor alternative text?
+# Question 2: Why is alt="image" usually poor alternative text?
 
 The text alt="image" is usually poor because it does not explain what the image shows or why it matters. Screen readers already identify images, so the word “image” provides little additional information.
 
@@ -33,7 +33,7 @@ Example:
 
 alt="Laptop and notebook arranged on a study desk"
 
-Question 3: What alternative text would you write for your profile image, and why?
+# Question 3: What alternative text would you write for your profile image, and why?
 
 For my profile image, I would use:
 
@@ -41,7 +41,7 @@ alt="oil painting portrait of a young black person"
 
 I would use this description because it clearly identifies the main subject of the photograph. It helps people who cannot see the image understand that it is my personal portrait.
 
-Question 4: When should alt="" be used?
+# Question 4: When should alt="" be used?
 
 The empty alternative text alt="" should be used when an image is purely decorative and does not communicate important information.
 
@@ -53,7 +53,7 @@ Example:
 
 <img src="images/decoration.jpg" alt="" width="600" height="200">
 
-Project Files
+# Project Files
 
 * index.html — Main HTML webpage.
 * images/ — Profile, decorative, and figure images.
@@ -62,7 +62,7 @@ Project Files
 * screenshots/html-validation.png — W3C HTML validation screenshot.
 * screenshots/webpage-preview.png — Screenshot of the completed webpage.
 
-HTML Validation
+# HTML Validation
 
 The HTML document was checked using the W3C Nu HTML Checker and passed with no errors or warnings.
 
